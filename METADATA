@@ -1,14 +1,3 @@
-name: "starlark-go"
-description:
-    "Starlark in Go is an interpreter for Starlark, implemented in Go."
-
-third_party {
-  url {
-    type: GIT
-    value: "https://github.com/google/starlark-go.git"
-  }
-  version: "ebe61bd709bf23d7baddbb34e79084d7d156be04"
-  last_upgrade_date { year: 2021 month: 02 day: 17 }
-  license_type: NOTICE
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:27c3dd31fd07f6bbcb1a7abc90a3fee44604668069817fc0b07c9ae6b6c70df7
+size 334
